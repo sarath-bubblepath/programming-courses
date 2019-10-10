@@ -1,1 +1,1 @@
-# programming-courses-completed
+# programming-courses
